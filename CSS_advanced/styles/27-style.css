@@ -260,7 +260,7 @@ a:active {
 }
 
 .section-hero {
-    background-size: width height;
+    background-size: 90rem auto;
     width: 90rem;
     height: auto;
 }
