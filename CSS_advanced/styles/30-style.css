@@ -276,7 +276,7 @@ a:active {
 }
 
 .card-work:hover .card-inner {
-    color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
@@ -293,7 +293,7 @@ a:active {
     padding-top: 45%;
 }
 
-.card-work .card-title::after {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
