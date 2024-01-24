@@ -1,0 +1,9 @@
+$text-color: #ff0000;
+$text-color2: #00ff00;
+
+button {
+    color: $text-color;
+    button:hover {
+        color: $text-color2;
+    }
+}
