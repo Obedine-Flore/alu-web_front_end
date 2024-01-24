@@ -1,18 +1,15 @@
-$ cat my_styles.scss
-/* My style */
-body {
-    .container {
-        color: #3D3D3D;
-    }
-}
-$
-
-$color: #3D3D3D;
+$text-color: #3d3d3d;
+$background-color: #6d6d6d;
 
 body {
-    color: color;
+  color: $text-color;
+  background-color: $background-color;
 }
 
 p {
-    color: color;
+  color: $text-color;
+}
+
+h2 {
+  background-color: $background-color;
 }
