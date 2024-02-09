@@ -681,6 +681,7 @@
 
   .card-work:hover .card-title a {
     opacity: 1;
+    height: 100%;
   }
 
   .card-work:hover .card-title a:focus {
